@@ -30,6 +30,19 @@ function Footer() {
 				</a>
 			</div>
 			<div>
+				<a
+					href="https://stackoverflow.com/users/18815143/hickscj24"
+					target="_blank"
+					rel="noopener noreferrer"
+				>
+					<img
+						src={require("../../assets/logos/stackoverflow-logo-700x467.png")}
+						alt="Stack Overflow"
+						className="logo"
+					></img>
+				</a>
+			</div>
+			<div>
 				
 			</div>
 		</footer>

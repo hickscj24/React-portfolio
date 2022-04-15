@@ -40,18 +40,18 @@ function Portfolio() {
       },
     },
     {
-      title: "Disney App",
-      description: "An app designed for Disney lovers who want to learn more about their favorite characters",
+      title: "Ecommerce App",
+      description: "A website designed to shop for furniture",
       img: {
-        srcId: "th.jfif",
-        alt: "image that shows the disney logo",
+        srcId: "table.png",
+        alt: "image that shows a table set",
       },
       deployed: {
-        href: "https://watch.screencastify.com/v/VoYfobk0ttxbAtSe9BL3",
-        text: "Disney Dashboard ",
+        href: "https://ecommerceapp-p3.herokuapp.com/#/login",
+        text: "Ecommerce app ",
       },
       repo: {
-        href: "https://github.com/hickscj24/Social-Network-API",
+        href: "https://github.com/hickscj24/ECommerceApp",
         text: "Github Repository",
       },
       
