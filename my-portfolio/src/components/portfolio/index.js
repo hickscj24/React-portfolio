@@ -56,6 +56,57 @@ function Portfolio() {
       },
       
     },
+    {
+      title: "Social Network API",
+      description: "A project designed to be used as a social network startup creating an API that uses a noSQL database",
+      img: {
+        srcId: "API-illustration.jpg",
+        alt: "image that shows an api illustration",
+      },
+      deployed: {
+        href: "https://watch.screencastify.com/v/VoYfobk0ttxbAtSe9BL3",
+        text: "Social Network API ",
+      },
+      repo: {
+        href: "https://github.com/hickscj24/Social-Network-API",
+        text: "Github Repository",
+      },
+      
+    },
+    {
+      title: "Note taker  App",
+      description: "An app designed to to help you take notes",
+      img: {
+        srcId: "com.task.notes.jpg",
+        alt: "image that shows a notebook",
+      },
+      deployed: {
+        href: "https://polar-harbor-98314.herokuapp.com/",
+        text: "Note Taker app ",
+      },
+      repo: {
+        href: "https://github.com/hickscj24/Note-Taker-",
+        text: "Github Repository",
+      },
+      
+    },
+    {
+      title: "Day planner App",
+      description: "An app created for basic day planning",
+      img: {
+        srcId: "calendar-icon-294-300.jpg",
+        alt: "image that shows a calendar",
+      },
+      deployed: {
+        href: "https://hickscj24.github.io/homework-05/",
+        text: "Day Planner App ",
+      },
+      repo: {
+        href: "https://github.com/hickscj24/homework-05",
+        text: "Github Repository",
+      },
+      
+    },
   
    
   ];

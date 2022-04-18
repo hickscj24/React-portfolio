@@ -6,6 +6,20 @@ function Resume() {
 			<div className="center">
 				<h1 className="page-header">My Resume</h1>
 			</div>
+			<div><a
+					href="my-portfolio\src\assets\files\CodyJ-Hicks-Resume - Copy.PDF"
+					target="_blank"
+					rel="noopener noreferrer"
+				>
+					<img
+						src={require("../../assets/logos/my-resume-art.jpg")}
+						alt="resume"
+						className="logo"
+						length="750"
+						width="750"
+					></img>
+				</a>
+				</div>
 			<div className="bottom-spacing">
 				
 			</div>
