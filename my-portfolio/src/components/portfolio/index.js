@@ -43,7 +43,7 @@ function Portfolio() {
       title: "Ecommerce App",
       description: "A website designed to shop for furniture",
       img: {
-        srcId: "table.png",
+        srcId: "Ecommerce_App",
         alt: "image that shows a table set",
       },
       deployed: {

@@ -5,6 +5,7 @@ const Project = (props) => {
   const srcs = {
 	disney: require("../../assets/logos/th.jfif"),
   SocialMediaApp:require("../../assets/logos/Capture5.PNG"),
+  Ecommerce_App: require("../../assets/logos/table.png")
   };
 
   return (
