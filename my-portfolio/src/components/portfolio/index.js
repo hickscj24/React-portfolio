@@ -60,7 +60,7 @@ function Portfolio() {
       title: "Social Network API",
       description: "A project designed to be used as a social network startup creating an API that uses a noSQL database",
       img: {
-        srcId: "API-illustration.jpg",
+        srcId: "Social_Network_API",
         alt: "image that shows an api illustration",
       },
       deployed: {
@@ -77,7 +77,7 @@ function Portfolio() {
       title: "Note taker  App",
       description: "An app designed to to help you take notes",
       img: {
-        srcId: "com.task.notes.jpg",
+        srcId: "NoteTaker",
         alt: "image that shows a notebook",
       },
       deployed: {
@@ -94,7 +94,7 @@ function Portfolio() {
       title: "Day planner App",
       description: "An app created for basic day planning",
       img: {
-        srcId: "calendar-icon-294-300.jpg",
+        srcId: "DayPlanner",
         alt: "image that shows a calendar",
       },
       deployed: {
